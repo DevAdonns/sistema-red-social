@@ -1,0 +1,1 @@
+Tu sistema es una red social básica donde los usuarios pueden gestionar su perfil, amigos y eventos, invitando a sus amigos y visualizando los eventos en los que participan, todo con una interfaz visual amigable y funcional.
